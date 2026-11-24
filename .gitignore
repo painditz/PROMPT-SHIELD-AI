@@ -1,0 +1,45 @@
+# Python and test tooling
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+/htmlcov/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.envrc
+credentials/
+secrets/
+.aws/
+.ssh/
+credentials.*
+secrets.*
+api-key*
+api_key*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime state and private material
+/test-data/local/
+/private/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Temporary and OS-generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db

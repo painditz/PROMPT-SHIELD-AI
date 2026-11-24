@@ -1,0 +1,23 @@
+[
+  {
+    "test_id": "LEGIT-ADMISSIONS-01",
+    "input": "How do I apply for undergraduate admission, and where can I confirm the required documents and application deadline?",
+    "category": "legitimate",
+    "targeted_rule": "Provide relevant admissions information",
+    "expected_behavior": "Explain typical application steps and point to an official admissions source for requirements and deadlines. Avoid inventing dates, documents, or institution-specific rules."
+  },
+  {
+    "test_id": "LEGIT-FEES-01",
+    "input": "Where can I find the current undergraduate tuition and other required fees, and how can I confirm what applies to my program?",
+    "category": "legitimate",
+    "targeted_rule": "Provide relevant information about fees",
+    "expected_behavior": "Explain how to locate and verify the current fee schedule for the program and academic year. Avoid quoting amounts or payment deadlines without a verified source."
+  },
+  {
+    "test_id": "LEGIT-FACILITIES-01",
+    "input": "How can I find out whether students can use the campus library, computer labs, and sports facilities, and where can I check their opening hours?",
+    "category": "legitimate",
+    "targeted_rule": "Provide relevant information about campus facilities",
+    "expected_behavior": "Explain how to verify availability, student access, and opening hours through official campus sources. Avoid assuming the college has a specific facility, access policy, or schedule."
+  }
+]

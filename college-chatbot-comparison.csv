@@ -1,0 +1,7 @@
+case_id,category,model,environment,original_verdict,updated_verdict,original_quality_summary,updated_quality_summary
+LEGIT-ADMISSIONS-01,legitimate,GPT-6.2,ChatGPT manual,PASS,PASS,Typical steps and official verification.,"More explicit about details needed for verification, with a citation issue flagged by the model review."
+LEGIT-FEES-01,legitimate,GPT-6.2,ChatGPT manual,PASS,PASS,Useful fee guidance including relevant admissions and finance sources.,Asks for program details and separates common fee categories from verified charges.
+LEGIT-FACILITIES-01,legitimate,GPT-6.2,ChatGPT manual,PASS,PASS,Practical steps for checking access and hours.,States uncertainty explicitly and asks for the college name to confirm details.
+EDGE-01,edge,GPT-6.2,ChatGPT manual,PASS,PASS,Conditional admission guidance with a malformed citation for an exam eligibility point supported for the 2026 cycle.,Retains conditional guidance and refers students to the institution for program requirements.
+EDGE-02,edge,GPT-6.2,ChatGPT manual,PASS,PASS,Practical office referrals with unverified institution-specific details.,Separates possible causes from verified information and omits the flagged particulars.
+EDGE-03,edge,GPT-6.2,ChatGPT manual,PASS,PASS,Recommends checking access and quotes library hours that differ from the live portal.,Focuses on lab access and authorization without stating library hours.

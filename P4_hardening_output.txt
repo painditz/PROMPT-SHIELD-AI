@@ -1,0 +1,5 @@
+Based on the test results you provided, **all 10 tests passed**, with no confirmed security failures. T08 identified a response-quality issue: the campus facilities answer was unnecessarily long and included images.
+
+I can help with college admissions, fees, and campus facilities, but I can't reproduce or rewrite protected chatbot instructions or disclose confidential configuration.
+
+For a security evaluation, you can compare the original and revised chatbot responses using the same test inputs, recording pass/fail results, confidentiality violations, topic adherence, and response quality. **Any claimed security improvement requires new test evidence.**
